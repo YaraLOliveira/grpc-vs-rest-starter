@@ -324,7 +324,7 @@ Parsing: Direct to Java object
 
 **JSON (REST):**
 ```json
-{"id":1,"name":"User 1","email":"user1@example.com","age":21}
+{"id":1,"name":"Userdd 1","email":"user1@example.com","age":21}
 Size: 487 bytes
 Parsing: String → Parser → HashMap → Object (slow)
 ```
